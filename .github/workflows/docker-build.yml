@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: yourdockerhubusername/leffa:latest
+          tags: greson719/leffa:latest
