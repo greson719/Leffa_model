@@ -1,4 +1,4 @@
-av==0.7.0
+av
 accelerate==0.18.0
 config==0.3.0
 cloudpickle==2.2.1
